@@ -10,8 +10,7 @@ jobs:
           java-version: '25'
           distribution: 'oracle'
       - uses: gradle/actions/setup-gradle@v3
-        with:
-      - run: gradle build
+      - run: ./gradlew build
       - uses: actions/upload-artifact@v4
         with:
           name: musicplayer-jar
