@@ -11,7 +11,6 @@ jobs:
           distribution: 'oracle'
       - uses: gradle/actions/setup-gradle@v3
         with:
-          gradle-version: '9.9'
       - run: gradle build
       - uses: actions/upload-artifact@v4
         with:
