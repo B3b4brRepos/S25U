@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "dev.ollefx.musicplayer.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "MixinGameRenderer",
+    "MixinKeyboardHandler",
+    "MixinHud",
+    "MixinLivingEntityRenderer"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

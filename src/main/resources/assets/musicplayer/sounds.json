@@ -1,0 +1,26 @@
+{
+  "ui.menu.open": {
+    "sounds": [{"name": "musicplayer:ui/menu_open", "volume": 0.6, "pitch": 1.0, "stream": false}]
+  },
+  "ui.menu.close": {
+    "sounds": [{"name": "musicplayer:ui/menu_close", "volume": 0.5, "pitch": 1.0, "stream": false}]
+  },
+  "ui.button.click": {
+    "sounds": [{"name": "musicplayer:ui/button_click", "volume": 0.4, "pitch": 1.0, "stream": false}]
+  },
+  "ui.button.hover": {
+    "sounds": [{"name": "musicplayer:ui/button_hover", "volume": 0.2, "pitch": 1.2, "stream": false}]
+  },
+  "ui.toggle": {
+    "sounds": [{"name": "musicplayer:ui/toggle", "volume": 0.4, "pitch": 1.0, "stream": false}]
+  },
+  "ui.navigate": {
+    "sounds": [{"name": "musicplayer:ui/navigate", "volume": 0.3, "pitch": 1.0, "stream": false}]
+  },
+  "ui.pill.expand": {
+    "sounds": [{"name": "musicplayer:ui/pill_expand", "volume": 0.35, "pitch": 1.0, "stream": false}]
+  },
+  "ui.search": {
+    "sounds": [{"name": "musicplayer:ui/search", "volume": 0.3, "pitch": 1.0, "stream": false}]
+  }
+}
